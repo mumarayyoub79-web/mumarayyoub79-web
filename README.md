@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Umar
+# Hi 👋, I'm Umar
 
 ### A passionate Full Stack AI Engineer
 
